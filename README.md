@@ -11,9 +11,9 @@ and a few other custom built (incl. social media platforms). [Having troubles by
 
 ---
 
-**Looking for a stellar web scraping service?** Check ScrapingBee service that runs in-cloud with no extra charges for traffic from premium and residential proxies, and has battle-tested anti-fingerprinting features.
+**Looking for a stellar web scraping service?** Check [ScrapingBee service](https://www.scrapingbee.com?fpr=darius82) that runs in-cloud scraping bots with no extra charges for traffic from premium and residential proxies, and has battle-tested anti-fingerprinting features.
 
-![https://www.scrapingbee.com?fpr=darius8](./scrapingbee.png)
+[![ScrapingBee](./scrapingbee.png)](https://www.scrapingbee.com?fpr=darius82)
 
 ---
 
@@ -95,6 +95,7 @@ These websites may be useful to test fingerprinting techniques against a web scr
 | http://uniquemachine.org/ | - |
 | http://dnscookie.com/ | - |
 | https://whatleaks.com/ | - |
+| https://kitchensink.ssl.fun/vendor/shape/fp | - |
 
 
 # Non-technical notes
